@@ -138,7 +138,7 @@ This analysis helps businesses make data-driven decisions by identifying growth 
 ![Dashboard](https://github.com/rohannn16/Ecommerce-Sales-Analysis-PowerBI/blob/main/Images/Screenshot%20Page-1.png)
 
 
-![Dashboard]()
+![Dashboard](https://github.com/rohannn16/Ecommerce-Sales-Analysis-PowerBI/blob/main/Images/Screenshot%20Page-2.png)
 
 ---
 
