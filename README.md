@@ -144,9 +144,9 @@ This analysis helps businesses make data-driven decisions by identifying growth 
 
 ## 🔗 Connect With Me
 
-* 💼 ![LinkedIn]()
-* 💻 ![GitHub](https://github.com/rohannn16?tab=repositories)
-* 📧 ![Email](diliprohankumar@gmail.com)
+* 💼 [LinkedIn](www.linkedin.com/in/rohankumards16)
+* 💻 [GitHub](https://github.com/rohannn16?tab=repositories)
+* 📧 Email: diliprohankumar@gmail.com
 
 ---
 
