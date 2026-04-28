@@ -142,6 +142,17 @@ This analysis helps businesses make data-driven decisions by identifying growth 
 
 ---
 
+## 🔗 Connect With Me
+
+* 💼 ![LinkedIn]()
+* 💻 ![GitHub](https://github.com/rohannn16?tab=repositories)
+* 📧 ![Email](diliprohankumar@gmail.com)
+
+---
+
+⭐ Feel free to connect with me for collaborations, opportunities, or discussions on Data Analytics!
+
+
 ## ⭐ If you like this project
 
 Give it a star on GitHub ⭐
