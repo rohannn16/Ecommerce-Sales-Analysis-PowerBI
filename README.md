@@ -8,11 +8,24 @@ This project presents an interactive **Power BI dashboard** to analyze E-commerc
 ## 📁 Project Structure
 
 ```
-E-commerce-Sales-Analysis/
-│── data/
-│── dashboard/
-│── images/
-│── README.md
+Ecommerce-Sales-Analysis/
+│
+├── Ecommerce Dashboard/
+│   └── E-commerce Sales Analysis.pbix
+│
+├── Ecommerce Sales Analysis Insights/
+│   └── E-commerce Sales Analysis Insights(P.BI).pptx
+│
+├── Ecommerce Sales Data/
+│   └── E-Commerce Sales Raw Data.csv
+│
+├── Images/
+│   ├── Screenshot Page-1.png
+│   └── Screenshot Page-2.png
+│
+├── .gitignore
+├── LICENSE
+└── README.md
 ```
 
 
